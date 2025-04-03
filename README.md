@@ -1,11 +1,5 @@
 # Connection-test
 
-
-Here’s a professional **README.md** for your project:
-
----
-
-# Marlyn Equipment Management System  
 **Python + MySQL Integration for Infrastructure Monitoring**  
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  
